@@ -1,6 +1,6 @@
 # Social Media Feed
 
-This project is a C++ implementation of a simplified social media feed system using a singly linked list. It was developed for **CS2001 – Data Structures Assignment 01 (Fall 2023)** to demonstrate practical use of dynamic memory and data organization using linked lists.
+This project is a C++ implementation of a simplified social media feed system using a singly linked list.
 
 ---
 
